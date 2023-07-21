@@ -12,7 +12,7 @@
 Hi there 👋
 ## Terminal49 - 🚢 container tracking API and dashboards 
 
-We are builing software infrastrvutre to automate global trade. Check us out at [terminal49.com](https://www.terminal49.com/)
+We are builing software infrastructure to automate global trade. Check us out at [terminal49.com](https://www.terminal49.com/)
 
 
 Here are some of our products: 
